@@ -8,8 +8,8 @@ This task focuses on testing passwords of varying complexities using online pass
 | Password              | Score / Rating  | Crack Time        | Feedback                              |
 |-----------------------|-----------------|-------------------|----------------------------------------|
 | apple123              | Weak            | Instant           | Too short, contains common word        |
-| Appl3$tree            | Medium          | Few hours         | Decent complexity, needs more length   |
-| P@ssw0rd!2025#Learn   | Strong          | Centuries         | Complex and long, very secure          |
+| Appl3$                | Medium          | Few hours         | Decent complexity, needs more length   |
+| !P@ss2*               | Strong          | Centuries         | Complex and long, very secure          |
 | My$ecureP@ss2025!     | Very Strong     | Centuries+        | Excellent length and complexity        |
 
 > **Note:** These passwords are examples for testing only and should not be used for real accounts.
@@ -49,3 +49,4 @@ Add screenshots of password strength checker results here:
 ![Password Test 2](screenshots/password2.png)
 ![Password Test 3](screenshots/password3.png)
 ![Password Test 4](screenshots/password4.png)
+
